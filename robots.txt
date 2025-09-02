@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cognisynth.tech/sitemap.xml
